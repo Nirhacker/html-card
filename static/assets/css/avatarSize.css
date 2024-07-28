@@ -1,0 +1,5 @@
+.avatar img {
+    width: 122px;
+    height: 122px;
+    border-radius: 50%; /* Optional: If you want a circular avatar */
+}
